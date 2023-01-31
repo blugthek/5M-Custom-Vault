@@ -1,6 +1,0 @@
-tempDataStorage = {}
-Config = {} or Config
-
-
-
-
